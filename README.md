@@ -1,0 +1,1 @@
+This is a project demo for deploying a Node.js application using AWS Elastic Beanstalk
